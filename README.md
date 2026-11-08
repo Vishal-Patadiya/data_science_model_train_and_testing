@@ -55,27 +55,6 @@ pip install numpy pandas scikit-learn openpyxl jupyter
 
 ---
 
-## 🚀 Getting Started
-
-1. **Clone the repository:**
-```bash
-git clone [https://github.com/](https://github.com/)<your-username>/<repo-name>.git
-cd <repo-name>
-
-```
-
-
-2. **Launch Jupyter Notebook:**
-```bash
-jupyter notebook
-
-```
-
-
-3. **Run the Notebooks:**
-* Open `first_accuracy_RandomForest.ipynb` to view the Random Forest workflow and evaluation metrics.
-* Open `Second_accuracy_GaussianNB.ipynb` to inspect the Gaussian Naive Bayes model implementation.
-* Open `first.ipynb` for initial data exploration and preprocessing checks.
 
 
 
